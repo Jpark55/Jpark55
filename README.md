@@ -1,4 +1,9 @@
-### Hi there 👋
+### Jpark55
+
+**'coding'**
+
+starting my coding journey
+
 
 <!--
 **Jpark55/Jpark55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
