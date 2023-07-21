@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=9A8sQZDRn5o
 starting my coding journey
 
 
-
+[Tableau Public example](https://public.tableau.com/app/profile/jung.min.park/viz/superstoresalesanalysisDashboard/Dashboard1)
 
 ### 📊 Stats
 
