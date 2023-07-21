@@ -7,10 +7,10 @@ https://www.youtube.com/watch?v=9A8sQZDRn5o
 
 **'coding'**
 
-starting my coding journey
 
 
-[Tableau Public example](https://public.tableau.com/app/profile/jung.min.park/viz/superstoresalesanalysisDashboard/Dashboard1)
+[Tableau Public example of sample superstore dataset](https://public.tableau.com/app/profile/jung.min.park/viz/superstoresalesanalysisDashboard/Dashboard1)
+
 
 ### 📊 Stats
 
